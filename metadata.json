@@ -1,0 +1,8 @@
+{
+  "name": "SLBot Advanced",
+  "description": "A high-performance, real-time AI assistant featuring 3D animations and streaming responses powered by Sriram Kumar.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
